@@ -1,0 +1,13 @@
+.venv*/
+venv*/
+*.pyc
+.env*
+.vscode/
+genesis.db
+*.exe
+genesis_sample/
+bot_git/
+tmp/
+
+# this directory is used by one of the sample scrips as a staging area
+sample_catalog_stage/
